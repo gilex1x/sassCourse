@@ -1,8 +1,9 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AECA,AAAA,KAAK,AAAA,CACD,gBAAgB,CDCJ,OAAO,CCAtB",
     "sources": [
         "../SCSS/index.scss",
+        "../SCSS/lib/_variables.scss",
         "../SCSS/_tablas.scss"
     ],
     "names": [],
