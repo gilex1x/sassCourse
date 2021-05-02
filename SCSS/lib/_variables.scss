@@ -1,4 +1,20 @@
 /*Por organizacion se recomienda usar comentarios para 
-definir los colores y sus valores*/
+*definir los colores y sus valores
+*/
 //las variables en sas comienzan con $
-$color-primary: #e80002;
+/*--------------------*\
+    $COLORS
+\*--------------------*/
+$color-primary: #273c75;
+$color-secundary:#9c88ff;
+$color-succes: #4cd137;
+$color-fail:#e84118;
+$color-warning: #fbc531;
+/*--------------------*\
+    $FONT-SIZE
+\*--------------------*/
+$primary-title: 40px;
+$secondary-title: 35px;
+$third-title: 30px;
+$normal-text: 20px;
+$little-text: 16px;

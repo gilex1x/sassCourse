@@ -1,4 +1,7 @@
 @import "lib/variables";
 
+body{
+    background-color: $color-primary;
+}
 
-@import "tablas";
+@import "html/tablas";

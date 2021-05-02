@@ -1,2 +1,17 @@
-table{background-color:#e80002}
+/*Por organizacion se recomienda usar comentarios para 
+*definir los colores y sus valores
+*/
+/*--------------------*\
+    $COLORS
+\*--------------------*/
+/*--------------------*\
+    $FONT-SIZE
+\*--------------------*/
+body {
+  background-color: #273c75;
+}
+
+table {
+  background-color: #273c75;
+}
 /*# sourceMappingURL=index.css.map */

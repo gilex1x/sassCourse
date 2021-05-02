@@ -1,10 +1,10 @@
 {
     "version": 3,
-    "mappings": "AECA,AAAA,KAAK,AAAA,CACD,gBAAgB,CDCJ,OAAO,CCAtB",
+    "mappings": "ACAA;;EAEE;AAEF;;wBAEwB;AAMxB;;wBAEwB;ADZxB,AAAA,IAAI,CAAA;EACA,gBAAgB,ECIJ,OAAO;CDHtB;;AEHD,AAAA,KAAK,CAAA;EACD,gBAAgB,EDKJ,OAAO;CCJtB",
     "sources": [
         "../SCSS/index.scss",
         "../SCSS/lib/_variables.scss",
-        "../SCSS/_tablas.scss"
+        "../SCSS/html/_tablas.scss"
     ],
     "names": [],
     "file": "index.css"
