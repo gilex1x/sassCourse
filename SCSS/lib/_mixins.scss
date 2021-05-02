@@ -2,8 +2,9 @@
     $MIXINS 
 \*--------------------*/
 
-@mixin max-width {
-    max-width: 800px;
+@mixin max-width($maxwidth:800px) {
+    max-width: $maxwidth;
     margin-right: auto;
     margin-left: auto;
+    padding: $padding;
 }
