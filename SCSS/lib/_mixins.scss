@@ -8,3 +8,8 @@
     margin-left: auto;
     padding: $padding;
 }
+@mixin respond-to($width){
+    @media only screen and(min-width:$width){
+        @content;//Aca se pondra todo lo que yo configure en mis layouts
+    }
+}

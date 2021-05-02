@@ -44,6 +44,12 @@ section {
   padding: 20px;
 }
 
+@media only screen and (min-width: 700px) {
+  section {
+    background-color: black;
+  }
+}
+
 .maxwidth--huge {
   max-width: 1200px;
   margin-right: auto;

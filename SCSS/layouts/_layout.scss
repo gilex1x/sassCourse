@@ -1,5 +1,9 @@
 section{
     @include max-width;
+    @include respond-to(700px){// de 7000px para arriba
+        //Esto se va para el @content
+        background-color: black;
+    }
 }
 
 .maxwidth--huge{
