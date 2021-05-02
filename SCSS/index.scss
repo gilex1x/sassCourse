@@ -1,5 +1,6 @@
 //Configuraciones y variables 
 @import "lib/variables";
+@import "lib/mixins";
 
 body{
     background-color: $color-primary;
@@ -11,3 +12,5 @@ body{
 @import "base/tipopgrafia";
 //componenetes
 @import "components/grid"; 
+//layout 
+@import "layouts/layout";

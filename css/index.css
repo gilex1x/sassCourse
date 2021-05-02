@@ -7,6 +7,9 @@
 /*--------------------*\
     $FONTS
 \*--------------------*/
+/*--------------------*\
+    $MIXINS 
+\*--------------------*/
 body {
   background-color: #273c75;
 }
@@ -14,7 +17,7 @@ body {
 /*--------------------*\
     $BUTTON
 \*--------------------*/
-.button {
+button {
   display: inline-block;
   color: #ffffff;
   background-color: #273c75;
@@ -22,15 +25,21 @@ body {
   border-radius: 4px;
 }
 
-.button .button--alert {
+button .button--alert {
   background-color: #fbc531;
 }
 
-.button--success {
+button--success {
   background-color: #4cd137;
 }
 
 table {
   background-color: #273c75;
+}
+
+body {
+  max-width: 800px;
+  margin-right: auto;
+  margin-left: auto;
 }
 /*# sourceMappingURL=index.css.map */
