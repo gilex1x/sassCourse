@@ -1,0 +1,17 @@
+/*--------------------*\
+    $BUTTON
+\*--------------------*/
+
+.button{
+    display: inline-block;
+    color: $buttoncolor;
+    background-color: $buttonbackground;
+    line-height: 2.5;
+    border-radius: $border-radius;
+    .button--alert{
+        background-color: $color-alert;
+    }
+    &--success{
+        background-color: $color-success;
+    }
+}

@@ -7,11 +7,27 @@
 /*--------------------*\
     $FONTS
 \*--------------------*/
+body {
+  background-color: #273c75;
+}
+
 /*--------------------*\
     $BUTTON
 \*--------------------*/
-body {
+.button {
+  display: inline-block;
+  color: #ffffff;
   background-color: #273c75;
+  line-height: 2.5;
+  border-radius: 4px;
+}
+
+.button .button--alert {
+  background-color: #fbc531;
+}
+
+.button--success {
+  background-color: #4cd137;
 }
 
 table {
