@@ -1,10 +1,14 @@
 {
     "version": 3,
-    "mappings": "ACAA;;EAEE;AAEF;;wBAEwB;AAMxB;;wBAEwB;ADZxB,AAAA,IAAI,CAAA;EACA,gBAAgB,ECIJ,OAAO;CDHtB;;AEHD,AAAA,KAAK,CAAA;EACD,gBAAgB,EDKJ,OAAO;CCJtB",
+    "mappings": "ACAA;;EAEE;AAEF;;wBAEwB;AAQxB;;wBAEwB;AAOxB;;wBAEwB;ADtBxB,AAAA,IAAI,CAAA;EACA,gBAAgB,ECGJ,OAAO;CDFtB;;AGJD,AAAA,KAAK,CAAA;EACD,gBAAgB,EFKJ,OAAO;CEJtB",
     "sources": [
         "../SCSS/index.scss",
         "../SCSS/lib/_variables.scss",
-        "../SCSS/html/_tablas.scss"
+        "../SCSS/base/_botones.scss",
+        "../SCSS/base/_tablas.scss",
+        "../SCSS/base/_links.scss",
+        "../SCSS/base/_tipopgrafia.scss",
+        "../SCSS/components/_grid.scss"
     ],
     "names": [],
     "file": "index.css"

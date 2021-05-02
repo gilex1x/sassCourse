@@ -1,7 +1,13 @@
+//Configuraciones y variables 
 @import "lib/variables";
 
 body{
     background-color: $color-primary;
 }
-
-@import "html/tablas";
+//elementos base
+@import "base/botones";
+@import "base/tablas";
+@import "base/links";
+@import "base/tipopgrafia";
+//componenetes
+@import "components/grid"; 
